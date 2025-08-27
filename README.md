@@ -1,2 +1,2 @@
 # Repo_Inte
-Primero repositorio de clase
+Primer repositorio de clase
